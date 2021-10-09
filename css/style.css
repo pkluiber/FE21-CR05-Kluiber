@@ -1,0 +1,20 @@
+body {
+    width: 70%;
+    box-shadow: grey 4px 4px 4px;
+    /* border: black solid; */
+}
+
+.donau {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hain {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
